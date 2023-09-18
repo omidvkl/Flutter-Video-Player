@@ -1,6 +1,6 @@
-# video_player
+# Flutter Video Player
 
-A new Flutter project.
+A simple and elegant video player built with Flutter. Supports playing local and online video files, and features a variety of controls, including play/pause, forward/backward, and volume control.
 
 ## Getting Started
 
