@@ -1,4 +1,4 @@
-# video_player_tutorial
+# video_player
 
 A new Flutter project.
 
